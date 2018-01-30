@@ -11,3 +11,4 @@ Classic Tic-Tac-Toe game with single-player mode (against **_unbeatable_** compu
 * Developed by - Abhiramon, Aadhithya and Rakshith 
 * Single-player mode - Computer evaluates and makes the best possible move 
 * Multi-player mode - Connect over LAN and play with friends. (Either host or connect to a pc hosting the game)
+When hosting a game, click next untill you enter the game screen. Then, ask your opponent to connect using your IP.
